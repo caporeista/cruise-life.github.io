@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="tr">
 <head>
     <meta charset="UTF-8">
@@ -56,7 +56,7 @@
 
     <h2>6. Contact Us</h2>
     <p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:</p>
-    <p><strong>Email:</strong> [E-Posta Adresiniz Buraya Gelecek]</p>
+    <p><strong>Email:</strong> 2einteractive@gmail.com</p>
 
     <div class="footer">
         &copy; 2025 2E Interactive. All rights reserved.
